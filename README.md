@@ -16,5 +16,9 @@ The MIPI-10 header is of type FTSH-105-XX-X-DV.
 <p>
 <img src="IMG_0895.jpeg">
 <p>
+<img src="IMG_0894.jpeg">
+<p>
+<img src="IMG_0893.jpeg">
+<p>
 <img src="IMG_0877.JPG">
 <p>
